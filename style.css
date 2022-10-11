@@ -1,0 +1,12 @@
+.image-container img {
+    width: 30%;
+    height: auto;
+    margin: 1.25%;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
